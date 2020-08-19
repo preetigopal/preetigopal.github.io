@@ -1,0 +1,31 @@
+
+
+body {  
+    background-color: papayaWhip;
+    font-family:Times New Roman
+    padding-top:500px;
+    padding-bottom:25px;
+    padding-right:350px;
+    padding-left:350px;
+    font-size: 100%;
+    line-height: 1.5;
+}
+
+h1 {
+  color: navy;
+  margin-left: 0px;
+}
+
+h2 {
+  color: navy;
+  margin-left: 0px;
+}
+
+p {
+    margin-left: 0px;
+}
+
+table {
+    color: navy;
+    font-size: 20;    
+}
