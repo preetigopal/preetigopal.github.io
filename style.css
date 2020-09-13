@@ -3,10 +3,10 @@
 body {  
     background-color: papayaWhip;
     font-family:Times New Roman
-    padding-top:500px;
-    padding-bottom:25px;
-    padding-right:350px;
-    padding-left:350px;
+    padding-top:5%;
+    padding-bottom:5%;
+    padding-right:5%;
+    padding-left:5%;
     font-size: 100%;
     line-height: 1.5;
 }
